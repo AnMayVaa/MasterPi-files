@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Arm
+Comment=Arm Program
+Encoding=UTF-8
+Exec= python3 /home/pi/MasterPi/masterpi_pc_software/Arm.py
+Terminal=false
+MultipleArgs=false
+Type=Application
+Categories=Application;Development;
+StartupNotify=true
+Icon=/home/pi/MasterPi/masterpi_pc_software/images/Arm.ico
